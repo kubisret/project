@@ -1,1 +1,13 @@
 В ветки master - 2 коммита, в дэмо - 4
+
+10 коммитов:
+1) Написали информацию о двух ветках в файл hometask.txt
+2) Merge remote-tracking branch 'origin/hat'
+3) Merge remote-tracking branch 'origin/buttons' into boots_buttons
+4) Merge remote-tracking branch 'origin/boots' into boots_buttons
+5) fix readme
+6) dots
+7) README added
+8) boots
+9) heat added
+10) init
